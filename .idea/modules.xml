@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RecapItSchool.iml" filepath="$PROJECT_DIR$/.idea/RecapItSchool.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Session3/Session3.iml" filepath="$PROJECT_DIR$/Session3/Session3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Session1and2/session1and2.iml" filepath="$PROJECT_DIR$/Session1and2/session1and2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session3/session3.iml" filepath="$PROJECT_DIR$/Session3/session3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/session4/session4.iml" filepath="$PROJECT_DIR$/session4/session4.iml" />
     </modules>
   </component>
 </project>
