@@ -15,4 +15,9 @@ public class ScannerInputReader implements InputReader{
     public String readString() {
         return scanner.nextLine();
     }
+
+    @Override
+    public double readDouble(){
+        return scanner.nextDouble();
+    }
 }
