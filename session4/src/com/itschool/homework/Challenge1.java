@@ -7,7 +7,7 @@ public class Challenge1 {
 
     private final InputReader inputReader;
 
-    public Challenge1(InputReader inputReader) {
+    public Challenge1(InputReader inputReader){
         this.inputReader = inputReader;
     }
 
