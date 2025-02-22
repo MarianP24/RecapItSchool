@@ -22,7 +22,7 @@ public class Challenge5 {
 
             //fiecare număr este suma celor două numere precedente
 
-            for (int i = 1; i <= number; i ++) {
+            for (int i = 0; i < number; i ++) {
                 System.out.print(first + " ");
                 int next = first + second;
                 first = second;
